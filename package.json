@@ -9,10 +9,6 @@
     "ios": "expo start --ios",
     "eject": "expo eject"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/creativetimofficial/argon-react-native.git"
-  },
   "dependencies": {
     "@react-native-async-storage/async-storage": "^1.15.4",
     "@react-native-community/checkbox": "^0.5.7",
